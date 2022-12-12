@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Review one of Microverse Trial projects</b></h3>
+  <h3><b>Review-Microverse-Trials-Project</b></h3>
 
 </div>
 
@@ -28,11 +28,11 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [Review one of Microverse Trial projects] <a name="about-project"></a>
+# 📖 [Review-Microverse-Trials-Project] <a name="about-project"></a>
 
 > The project perform a code review on one of the Microverse Trial project.
 
-**[Review one of Microverse Trial projects]** is...
+**[Review-Microverse-Trials-Project]** is...
 
 ## 🛠 Built With <a name="built-with"></a>
 
